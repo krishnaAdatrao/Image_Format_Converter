@@ -10,5 +10,7 @@ There are different formats of Images for instance,
 5. APNG
 6. GIF
 7. SVG
+8. BMP
+9. WebP
 
 The PIL Library is capable of processing image according to their RGB ratio. Hence, the source code can change the bulk of image datasets from one format to another format.
