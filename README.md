@@ -1,6 +1,6 @@
 # Image_Format_Converter
 ## PIL Package
-PIL (Python Imaging Library) adds image processing capabilities to python interpreter. The image will be broken into RGB pixels which categorizes the each pixel color definition. However, the color definition of each format of an image changes according to the vetor density of that format. Hence, we have to convert the certain formats of an image according to the adjustments of their RGB function. 
+PIL (Python Imaging Library) adds image processing capabilities to python interpreter. The image will be broken into RGB pixels which categorizes the each pixel color definition. However, the color definition of each format of an image changes according to the vector density of that format. Hence, we have to convert the certain formats of an image according to the adjustments of their RGB function. 
 
 There are different formats of Images for instance,
 1. JPEG or JPG
